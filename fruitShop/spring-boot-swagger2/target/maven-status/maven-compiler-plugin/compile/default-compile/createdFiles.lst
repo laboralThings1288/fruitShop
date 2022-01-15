@@ -1,0 +1,4 @@
+com\test\fruitShop\model\Fruit.class
+com\test\fruitShop\controller\FruitShopRestController.class
+com\test\fruitShop\configuration\Swagger2UiConfiguration.class
+com\test\fruitShop\FruitShopApplication.class
