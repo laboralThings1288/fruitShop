@@ -1,6 +1,12 @@
 # fruitShop
 a fruitShop created like a test
 
+Author:
+
+Manuel Alejandro Garcia Garcia
+
+manuelalejandro1288@gmail.com
+
 Project created with:
 
 Swagger2
